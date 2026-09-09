@@ -1,0 +1,6 @@
+{
+  "name": "StoryForge: AI Storybook Creator",
+  "description": "A comprehensive tool for creating illustrated stories with consistent characters and art styles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
